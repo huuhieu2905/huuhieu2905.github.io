@@ -6,7 +6,7 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder Text</title>
       <link>/post/placeholder-text/</link>
@@ -17,20 +17,23 @@
     </item>
     
     <item>
+      <title>Hello World</title>
+      <link>/post/helloworld/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/helloworld/</guid>
+      <description>Hello World C++
+#include &amp;lt;iostream&amp;gt; using namespace std; int main(){ cout &amp;lt;&amp;lt; &amp;#34;Hello World&amp;#34;; return 0; } C
+#include &amp;lt;stdio.h&amp;gt; int main(){ printf(&amp;#34;Hello World&amp;#34;); return 0; } Java
+class HelloWorld{ public static void main(String[] args){ System.out.println(&amp;#34;Hello World&amp;#34;); } } </description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/archives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guides</title>
-      <link>/post/helloworld/</link>
-      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/helloworld/</guid>
       <description></description>
     </item>
     
@@ -60,15 +63,6 @@
       
       <guid>/post/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
