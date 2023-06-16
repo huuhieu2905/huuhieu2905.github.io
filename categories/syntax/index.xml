@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>syntax on </title>
+    <link>/categories/syntax/</link>
+    <description>Recent content in syntax on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>/post/helloworld/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/helloworld/</guid>
+      <description>Hello World C++
+#include &amp;lt;iostream&amp;gt; using namespace std; int main(){ cout &amp;lt;&amp;lt; &amp;#34;Hello World&amp;#34;; return 0; } C
+#include &amp;lt;stdio.h&amp;gt; int main(){ printf(&amp;#34;Hello World&amp;#34;); return 0; } Java
+class HelloWorld{ public static void main(String[] args){ System.out.println(&amp;#34;Hello World&amp;#34;); } } </description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
