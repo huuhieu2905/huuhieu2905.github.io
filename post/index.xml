@@ -6,14 +6,14 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Placeholder Text</title>
-      <link>/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Hướng dẫn chơi : Veera - Nữ hoàng bóng đêm</title>
+      <link>/post/huongdanchoiveera/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <guid>/post/huongdanchoiveera/</guid>
+      <description>Veera - Pháp sư 1.Tổng quan về Veera 1.1 Giới thiệu Là 1 trong những vị tướng pháp sư đời đầu của Liên Quân Mobile, chắc hẳn các bạn mới chơi cũng như những người chơi lâu năm đều đã biết qua về vị tướng này. Veera là một pháp sư với thiên hướng dồn sát thương và khả năng khống chế khó chịu, là một vị tướng thuộc dạng dễ chơi, dễ trúng thưởng cho các bạn rank thấp, không đòi hỏi quá nhiều kỹ năng nhưng lại cho một độ hiệu quả vô cùng lớn :&amp;gt;</description>
     </item>
     
     <item>
@@ -26,34 +26,6 @@
 #include &amp;lt;iostream&amp;gt; using namespace std; int main(){ cout &amp;lt;&amp;lt; &amp;#34;Hello World&amp;#34;; return 0; } C
 #include &amp;lt;stdio.h&amp;gt; int main(){ printf(&amp;#34;Hello World&amp;#34;); return 0; } Java
 class HelloWorld{ public static void main(String[] args){ System.out.println(&amp;#34;Hello World&amp;#34;); } } </description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
-&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     
   </channel>
